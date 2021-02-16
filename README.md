@@ -2,7 +2,8 @@
 
 Realizamos en base al desafio anterior la implementacion de plantillas con
 Handlebars, incorporando una vista de todos los productos cargados al servidor
-al momento y un formulario de carga.
+al momento _(localhost:4000/productos/vista)_ y un formulario de carga
+_(localhost:4000/productos/carga)_.
 
 <br>
 
